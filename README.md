@@ -1,3 +1,8 @@
+Live Site Link : https://eclectic-bubblegum-dc425b.netlify.app/
+
+![Keeper App - Google Chrome 09-01-2024 03_15_22 PM](https://github.com/Alokoct21/Note-Keeper/assets/69728237/5344bc77-7968-4ceb-aabc-dc5747b5bb04)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
